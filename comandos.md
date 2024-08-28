@@ -21,7 +21,6 @@ git diff branch
 git branch -a 
 
 git diff origin/main --name-status
-============
 A (Added): Indica que o arquivo foi adicionado no commit mais recente em comparação ao commit anterior. Ou seja, o arquivo foi criado e incluído no repositório em uma determinada revisão.
 
 D (Deleted): Indica que o arquivo foi excluído no commit mais recente. Em comparação ao commit anterior, o arquivo foi removido do repositório.
